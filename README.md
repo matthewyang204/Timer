@@ -2,7 +2,7 @@
 This code runs a timer in a terminal. It does not have a beeping noise or anything. It just runs a Python script located in your Documents folder.
 
 Requirements:
-macOS 10.13 (High Sierra) or later
+macOS 10.13 (High Sierra) or later,
 Python 3.12 or later
 
 To install:
