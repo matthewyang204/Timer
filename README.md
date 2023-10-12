@@ -1,6 +1,11 @@
-# Timer v0.1 (Beta)
-This code runs a timer in a terminal. Right now, you can only download a .zip of the source code, which contains a broken executable (not sure how that happened) and a python file (works fine). Please note that this is prerelease software.
+# Timer
+This code runs a timer in a terminal. It does not have a beeping noise or anything. It just runs a hidden Python script located in the Application Support folder in your Mac's main Library.
 
-Latest version: 0.1 (beta)
+Requirements:
+macOS 10.13 (High Sierra) or later
+Python 3.12 or later
 
-Download it here: https://github.com/matthewyang204/Timer/archive/refs/tags/0.1.zip
+To install:
+1. Make sure Python 3.12 or later is installed.
+2. Click on the download link to download the disk image.
+3. 
