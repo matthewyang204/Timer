@@ -9,14 +9,10 @@ To install:
 1. Make sure Python 3.12 or later is installed.
 2. Click on the download link to download the disk image.
 3. Open the disk image.
-4. Double-click on the installer.
-5. It may ask you for permission; allow it.
-6. Wait 2 seconds before ejecting the disk.
-7. Eject the disk image.
-Note: Do not delete the Timer 1.0.py file from your Documents folder unless you are uninstalling the app.
+4. Drag the python app to the alias of the Applications folder. It may ask for your admin password, enter it if prompted. The app will now be in your Applications folder.
 
 To use:
-1. Launch the app.
+1. Launch the python app (script).
 2. Follow the prompts in the terminal to configure hours, minutes, and seconds.
 3. Wait for the terminal to count to 0 hours, 0 minutes, 0 seconds.
 4. Close the terminal when the timer has finished.
