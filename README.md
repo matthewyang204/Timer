@@ -15,7 +15,8 @@ To use:
 1. Launch the Timer.py file from your Applications.
 3. Follow the prompts in the terminal to configure hours, minutes, and seconds.
 4. Wait for the terminal to count to 0 hours, 0 minutes, 0 seconds.
-5. Close the terminal when the timer has finished.
+5. Type "exit(0)" when it prompts you with ">>>".
+6. Close the terminal.
 
 To update:
 1. Follow the installation steps listed above; it merges the new version with the existing old one.
