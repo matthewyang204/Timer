@@ -19,4 +19,5 @@ To use:
 6. Close the terminal.
 
 To update:
-1. Follow the installation steps listed above; it merges the new version with the existing old one.
+1. Trash the old version of the Timer python app.
+2. Follow the installation steps above.
